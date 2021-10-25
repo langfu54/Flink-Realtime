@@ -8,7 +8,7 @@ import org.apache.flink.streaming.api.functions.source.SourceFunction;
 
 /**
  * @Author:Langfu54@gmail.com
- * @Date:2021.08
+ * @Date:
  * @desc:
  */
 public class FlinkCDCwithCustomDeserilizer {
